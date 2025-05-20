@@ -4,6 +4,15 @@ Welcome to my GitHub profile!
 
 I'm a passionate and driven developer with a strong focus on **deep learning**, **data science**, and **software development**. My work combines rigorous problem-solving, clean code, and scalable system design to build intelligent solutions that create impact.
 
+## 📫 Let's Connect
+
+Feel free to reach out or collaborate on any AI, software, or data-driven project!
+- ✉️ [Telegram](https://t.me/txleev)
+- 📧 [Email Me](mailto:tuleevnursultan@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nursultan-tuleev-9a1bb2198/)
+- 🌐 [Portfolio/Website](https://txleev.github.io/)
+
+- 
 ## 💡 About Me
 
 - 🎓 Background in computer science and applied AI
@@ -23,13 +32,6 @@ I'm a passionate and driven developer with a strong focus on **deep learning**, 
 - Exploring the frontiers of generative AI and LLMs
 - Contributing to open-source projects and AI research
 
-## 📫 Let's Connect
-
-Feel free to reach out or collaborate on any AI, software, or data-driven project!
-
-- 📧 [Email Me](mailto:tuleevnursultan@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/nursultan-tuleev-9a1bb2198/)
-- 🌐 [Portfolio/Website](https://txleev.github.io/)
 
 ---
 
