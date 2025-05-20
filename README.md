@@ -28,8 +28,8 @@ I'm a passionate and driven developer with a strong focus on **deep learning**, 
 Feel free to reach out or collaborate on any AI, software, or data-driven project!
 
 - 📧 [Email Me](mailto:tuleevnursultan@gmail.com)
-- 💼 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/nursultan-tuleev-9a1bb2198/))
-- 🌐 [Portfolio/Website]([https://yourwebsite.com](https://txleev.github.io/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/nursultan-tuleev-9a1bb2198/)
+- 🌐 [Portfolio/Website](https://txleev.github.io/)
 
 ---
 
