@@ -12,7 +12,7 @@ Feel free to reach out or collaborate on any AI, software, or data-driven projec
 - 💼 [LinkedIn](https://www.linkedin.com/in/nursultan-tuleev-9a1bb2198/)
 - 🌐 [Portfolio/Website](https://txleev.github.io/)
 
-- 
+  
 ## 💡 About Me
 
 - 🎓 Background in computer science and applied AI
