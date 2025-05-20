@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Nursultan 👋
 
-<!--
-**txleev/txleev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm a passionate and driven developer with a strong focus on **deep learning**, **data science**, and **software development**. My work combines rigorous problem-solving, clean code, and scalable system design to build intelligent solutions that create impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+- 🎓 Background in computer science and applied AI
+- 🧠 Enthusiast in neural networks, computer vision, and large language models
+- 💻 Experienced in building robust software systems and ML pipelines
+- 📊 Skilled in extracting insights from complex data and deploying models to production
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** Python, SQL, JavaScript
+- **Frameworks:** PyTorch, Flask, React, Django
+- **Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
+## 🚀 What I'm Working On
+
+- Building end-to-end machine learning systems
+- Exploring the frontiers of generative AI and LLMs
+- Contributing to open-source projects and AI research
+
+## 📫 Let's Connect
+
+Feel free to reach out or collaborate on any AI, software, or data-driven project!
+
+- 📧 [Email Me](mailto:tuleevnursultan@gmail.com)
+- 💼 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/nursultan-tuleev-9a1bb2198/))
+- 🌐 [Portfolio/Website]([https://yourwebsite.com](https://txleev.github.io/))
+
+---
+
+Thanks for visiting!
